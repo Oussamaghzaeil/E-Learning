@@ -14,19 +14,16 @@
 		<div class="item">
 			<div class="fill" style="background-image:url('images/1900x10802.png');"></div>
 			<div class="carousel-caption">
-				<h2 style="color: black;"> Making Learning Easy</h2>
 			</div>
 		</div>
 		<div class="item active">
 			<div class="fill" style="background-image:url('images/1900x10801.png');"></div>
 			<div class="carousel-caption">
-				<a href="registrationform"><h2 style="color: white;">Register Today</h2></a>
 			</div>
 		</div>
 		<div class="item">
 			<div class="fill" style="background-image:url('images/1900x10803.png');"></div>
 			<div class="carousel-caption">
-				<a href="takeassessment"><h2 style="color: white; ">Take Assessment</h2>
                 </div>
             </div>
         </div>
@@ -47,7 +44,7 @@
 	<div class="row">
 		<div class="col-lg-12">
 			<h1 class="page-header">
-                    Welcome to CLOUD CLASSROOMS
+                    Welcome to E-Learning Platform
                 </h1>
 		
 		</div>
@@ -59,13 +56,12 @@
 				<div class="panel-body">
 					<ul style="list-style-type:disc">
 						<li>
-							<p>The “Cloud Classrooms” Website (web based application) is useful for the
-							students, faculty, guest whomever likes to learn from web using E-Learn
-							(Videos), as well Check result, schedules of assessment and all that task like
-							event, news, students can find out list of fresh courses offered by them and
-							admission procedure, discussion forum, fee structure etc. without going to
-							institute. It provides the facility to the students or guest to have complete
-							information about the institute.
+							<p>The “E-Learning Platform” is useful for the
+students, faculty, guest whomever likes to learn from web using E-Learn
+(Videos), as well Check results and taking assessments. Students can find out list of fresh courses offered by the
+the professors without going to
+institute. It provides the facility to the students or guest to have complete
+information about the institute.
 						</p>
 					</li>
 					
@@ -107,7 +103,6 @@
 					<ul style="list-style-type:disc">
 					<li>RDBMS (Relational Database Management System)</li>
 					<li>BOOTSTRAP</li>
-					<li>APACHE SERVER</li>
 					<li>PHP</li>
 					<li>MYSQL</li>
 					</ul>
@@ -119,57 +114,15 @@
 	</div>
 	<!-- /.row -->
 
-	<!-- Portfolio Section -->
-	<div class="row">
-		<div class="col-lg-12">
-			<h2 class="page-header">TECHNOLOGY USED</h2>
-		</div>
-		<div class="col-md-4 col-sm-6">
-			<a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="images/apache_webserver_logo.png" alt="">
-                </a>
-		
-		</div>
-		<div class="col-md-4 col-sm-6">
-			<a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="images/14522157584_a67ab2e898_o.png" alt="">
-                </a>
-		
-		</div>
-		<div class="col-md-4 col-sm-6">
-			<a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="images/687474703a2f2f707265636973696f6e2d736f6674776172652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031342f30342f6a5175726572792e676966.gif" alt="">
-                </a>
-		
-		</div>
-		<div class="col-md-4 col-sm-6">
-			<a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="images/Javascript-shopping-cart.png" alt="">
-                </a>
-		
-		</div>
-		<div class="col-md-4 col-sm-6">
-			<a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="images/maxresdefault.jpg" alt="">
-                </a>
-		
-		</div>
-		<div class="col-md-4 col-sm-6">
-			<a href="#">
-                    <img class="img-responsive img-portfolio img-hover" src="images/3271.jpg" alt="">
-                </a>
-		
-		</div>
-	</div>
-	<!-- /.row -->
+	
 
 	<!-- Features Section -->
 	<div class="row">
 		<div class="col-lg-12">
-			<h2 class="page-header">CLOUD CLASSROOMS</h2>
+			<h2 class="page-header">E-Learning Platform</h2>
 		</div>
 		<div class="col-md-6">
-			<p>The CLOUD CLASSROOMS by <strong>VISHAL MATHUR 146891645</strong> includes:</p>
+			<p>The E-Learning Platform by <strong>Oussama & Rami</strong> includes:</p>
 			<ul>
 				<li><strong>Bootstrap v3.3.7</strong>
 				</li>
@@ -182,7 +135,7 @@
 			
 		</div>
 		<div class="col-md-6">
-			<img class="img-responsive" src="images/7fb1f193435815a86c8484f82b9589e1.jpg" alt="">
+			<img class="img-responsive" src="images/elearning.jpg" alt="">
 		</div>
 	</div>
 	

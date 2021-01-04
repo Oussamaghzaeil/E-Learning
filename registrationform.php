@@ -1,6 +1,6 @@
 <?php include('allhead.php'); ?>
 <script>
-	//javascript validation for various fildss
+	//javascript validation for various fields
 	function validateForm() {
 		var fname = document.forms[ "register" ][ "fname" ].value;
 		var lname = document.forms[ "register" ][ "lname" ].value;
@@ -170,8 +170,8 @@ Female</label>
 
 					<div class="control-group form-group">
 						<div class="controls">
-							<label>Contact Number (format: without code only 10 digits): <span style="color: #ff0000;">*</span></label>
-							<input type="tel" pattern="^\d{10}$" required class="form-control" name="phno" id="phno" maxlength="10">
+							<label>Contact Number (format: without code only 8 digits): <span style="color: #ff0000;">*</span></label>
+							<input type="tel" pattern="^\d{8}$" required class="form-control" name="phno" id="phno" maxlength="10">
 							<p class="help-block"></p>
 						</div>
 					</div>
@@ -203,3 +203,4 @@ Female</label>
 	</div>
 </div>
 <?php include('allfoot.php'); ?>
+

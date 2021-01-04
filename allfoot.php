@@ -3,7 +3,7 @@
         <footer>
             <div class="row">
                 <div class="col-lg-12">
-                    <p class="footer text-center">Copyright &copy; Cloud Classroom 2018  <strong>MCA</strong> project Made by <strong>VISHAL MATHUR 146891645</strong></p>
+                    <p class="footer text-center">Copyright &copy; E-Learning Platform 2020  <strong>IT</strong> project Made by <strong>Oussama & Rami</strong></p>
                 </div>
             </div>
         </footer>

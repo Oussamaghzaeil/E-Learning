@@ -10,7 +10,7 @@ $userfname = $_SESSION[ "fname" ];
 $userlname = $_SESSION[ "lname" ];
 ?>
 <?php include('studenthead.php'); ?>
-<div class="container">
+<div class="container" >
 	<div class="row">
 		<div class="col-md-8">
 			<h3> Welcome <a href="welcomestudent.php" <?php echo "<span style='color:red'>".$userfname." ".$userlname."</span>";?> </a></h3>

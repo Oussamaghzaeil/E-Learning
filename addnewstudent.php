@@ -61,7 +61,7 @@ $userid = $_SESSION[ "umail" ];
 				</div>
 
 				<div class="form-group">
-					<label for="DOB">D.O.B. : </label>
+					<label for="DOB">Date of birth: </label>
 					<input type="text" class="form-control" id="dob" name="DOB" placeholder="YYYY-MM-DD" required>
 				</div>
 
@@ -87,7 +87,7 @@ $userid = $_SESSION[ "umail" ];
 				</div>
 
 				<div class="form-group">
-					<label for="email">Email address:</label>
+					<label for="email">Email :</label>
 					<input type="email" class="form-control" name="email" placeholder="John@example.com" id="email" required>
 				</div>
 

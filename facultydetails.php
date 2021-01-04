@@ -16,7 +16,7 @@ $userid = $_SESSION[ "umail" ];
 		if ( isset( $_REQUEST[ 'deleteid' ] ) ) {
 			include( "database.php" );
 			$deleteid = $_GET[ 'deleteid' ];
-			//delete faculty Query
+			//supprimer faculty query
 			$sql = "DELETE FROM `facutlytable` WHERE FID = $deleteid";
 
 			if ( mysqli_query( $connect, $sql ) ) {
@@ -28,10 +28,10 @@ $userid = $_SESSION[ "umail" ];
 					<strong>Success!</strong> Faculty Details has been deleted.
 					</div>";
 			} else {
-				//error message if SQL query fails
+				//message d'erreur si sql n'a pas fonctionner
 				echo "<br><Strong>Faculty Details Updation Faliure. Try Again</strong><br> Error Details: " . $sql . "<br>" . mysqli_error( $connect );
 			}
-			//close the connection
+			//fermer la connection
 			mysqli_close( $connect );
 		}
 		?>
